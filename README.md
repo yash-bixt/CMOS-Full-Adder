@@ -26,8 +26,6 @@ A 1-bit full adder designed entirely using **CMOS logic** — implemented and si
 
 🖥️ **Tools Used**: LTSpice, basic waveform viewer
 
-📁 See `screenshots/` for the waveform and schematic.
-
 ---
 
 ## 🧠 What I Learned
@@ -36,17 +34,3 @@ A 1-bit full adder designed entirely using **CMOS logic** — implemented and si
 - How transistor arrangements implement real logic
 - Signal timing, waveform verification, rise/fall behavior
 - Functional testing using VPULSE inputs in SPICE
-
----
-
-## 🚀 Next Steps
-
-- Scale to 4-bit ripple-carry adder
-- Design layout in Electric VLSI and run LVS/DRC
-- Explore logic optimizations (gate sizing, buffering)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
